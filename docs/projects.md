@@ -3,12 +3,8 @@ id: projects
 title: Projects
 ---
 
-Embed any notable projects in this page.
+My current hobby is crocheting a multitude of projects for my clients however, when the requests are large, I needed something to keep track of all information. 
 
-For example, my favorite project would be linked and I can even embed
-a screenshot or GIF to show it.
+In this case, I used the User Form with VBA. It submits a line of information into the excel sheet with Create, Read, Update, and Delete functionalities. 
 
-You can list [links](https://www.hashicorp.com/resources/test-driven-development-tdd-for-infrastructure)
-or even embed images with the following Markdown:
-
-![Add alternate text for image](./assets/rosemary.png)
+![CraftFormSnippet](./assets/rosemary.png)
